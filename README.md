@@ -1,2 +1,2 @@
-# software-engineering-101
+# Software Engineering 101
 Practice Coding with TS
